@@ -7,3 +7,5 @@ nome_utente = input("Inserisci il tuo nome: ")
 cognome_utente = input("Inserisci il tuo cognome: ")
 saluto = Verifica_10_3_Gruppo_1(cognome_utente,nome_utente)
 print(saluto)
+
+Verifica_10_3_Gruppo_1()
