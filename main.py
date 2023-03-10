@@ -1,4 +1,4 @@
-import Verifica_10_3_Gruppo_1(Saluto_Carli_Gruppo1)
+import Verifica_10_3_Gruppo_1(saluto_Carli_Gruppo1)
 import Verifica_10_3_Gruppo_1(saluto_Rolfini_Gruppo_1)
 import Verifica_10_3_Gruppo_1(saluto_Mantovani_Gruppo1)
 import Verifica_10_3_Gruppo_1(simonevecchiattini)
